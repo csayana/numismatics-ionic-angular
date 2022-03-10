@@ -1,0 +1,7 @@
+{
+  "name": "numismatics-ionic-angular",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
